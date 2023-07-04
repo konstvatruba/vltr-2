@@ -8,10 +8,8 @@ theme = "lekh"
 Name = "Agent Smith"
 About = "Hello"
 
-<figure>
-    <img src="/exampleSite/images/Imagotipo Extendido B.png"
-    <figcaption>A single track trail outside of Albuquerque, New Mexico.</figcaption>
-</figure>
+<img src="/exampleSite/images/Imagotipo Extendido B.png">
+
 
 Resume = "" # Add the filename with file extension.
 
